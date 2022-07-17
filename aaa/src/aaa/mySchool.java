@@ -12,7 +12,7 @@ public class mySchool {
 		System.out.println("Wo hast du studiert??");
 		String schule = myscanner.nextLine();
 		
-		System.out.println("Du warst in "+schule);
+		System.out.println("Du hast studiert in  "+schule);
 		
 		
 
