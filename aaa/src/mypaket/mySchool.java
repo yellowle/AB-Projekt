@@ -1,4 +1,4 @@
-package aaa;
+package mypaket;
 import java.util.Scanner;
 public class mySchool {
 
